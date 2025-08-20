@@ -48,8 +48,8 @@ Clone the repository
 git clone https://github.com/your-username/task-tracker-app.git
 cd task-tracker-app
 
-Install dependencies
+Install dependencies:
 npm install
 
-Start the project
+Start the project:
 npx expo start
