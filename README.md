@@ -40,8 +40,7 @@ This project can be further extended with features such as reminders, categories
 
 ## 📸 Screenshots
 
-(Add screenshots here if you have any)
-
+![WhatsApp Image 2025-08-20 at 15 26 49_b933e76f](https://github.com/user-attachments/assets/7ba0aedb-0186-4023-a3d5-cb99dc3b1e64)
 
 
 ## 📂 Installation & Setup
@@ -54,7 +53,3 @@ npm install
 
 Start the project
 npx expo start
-
-📸 Screenshots
-
-(Add screenshots here if you have any)
